@@ -6,3 +6,8 @@ College site is made by using CSS, JavaScript and HTML codes. Mainly the JavaScr
 
 ![HOME](https://user-images.githubusercontent.com/68656122/121835990-30549900-ccf0-11eb-9f08-125d0ce91a6d.png)
 
+![Download](https://user-images.githubusercontent.com/68656122/121987963-1c279f00-cdb7-11eb-81a7-2de687e00eaa.png)
+
+![CONTACT](https://user-images.githubusercontent.com/68656122/121987975-25187080-cdb7-11eb-99ac-a9d68b841393.png)
+
+
